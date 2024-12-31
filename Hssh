@@ -1,0 +1,8 @@
+echo "# hsdjdj" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ferhh66565hhuh/hsdjdj.git
+git push -u origin main
+warp://p1@188.114.97.29:778/?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m4#y1&&detour=warp://p2@188.114.97.29:778/?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m4#y2
