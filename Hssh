@@ -5,4 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/hsdjdj.git
 git push -u origin main
-warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m4#y1&&detour=warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m4#y2
+warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m3#y1&&detour=warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m4#y2
+warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m5#y3&&detour=warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=m4#y4
+warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=h04ad5d#y5&&detour=warp://188.114.97.29:778?ifp=15-25&ifps=25-35&ifpd=35-45&ifpm=g04ad5d#y6
